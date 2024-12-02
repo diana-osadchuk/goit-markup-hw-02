@@ -7,7 +7,7 @@ body {
 /* #region hero */
 
 .header-page {
-  background-color: white;
+  background-color: #FFFFFF;
 }
 .nav-page {
 }
@@ -180,6 +180,7 @@ body {
   color: #2e2f42;
 }
 .our-portfolio {
+  text-transform: capitalize
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -195,6 +196,7 @@ body {
   color: #2e2f42;
 }
 .portfolio-title {
+ text-transform: capitalize
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;

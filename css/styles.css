@@ -172,6 +172,7 @@ body {
   text-align: center;
   color: #2e2f42;
 }
+
 .team-cards {
   text-transform: capitalize;
   font-weight: 500;
@@ -180,6 +181,7 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  background-color: #FFFFFF;
 }
 .our-portfolio {
   text-transform: capitalize
@@ -191,6 +193,7 @@ body {
   color: #2e2f42;
 }
 .portfolio-list {
+ text-transform: capitalize 
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -206,6 +209,7 @@ body {
   color: #2e2f42;
 }
 .portfolio-text {
+  text-transform: capitalize 
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;

@@ -54,6 +54,7 @@ body {
 
 /* #region hero */
 .footer-address {
+  font-style: normal;
 }
 .address-list {
 }
@@ -73,6 +74,10 @@ body {
 }
 /* #endregion hero */
 
+.business-solution {
+  background-color: #2e2f42;
+}
+
 .main-text {
   font-weight: 700;
   font-size: 56px;
@@ -88,8 +93,8 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
+  cursor: pointer;
 
   .main-button {
     cursor: pointer;
@@ -101,9 +106,9 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #fff;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  color: #ffffff;
   background-color: #404bbf;
+  cursor: pointer;
 }
 
 .service-title {
@@ -140,7 +145,22 @@ body {
 .team-section {
   background-color: #f4f4fd;
 }
-
+.team-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+.team-names {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
 .our-team {
   text-transform: capitalize;
   font-weight: 700;
@@ -151,6 +171,7 @@ body {
   color: #2e2f42;
 }
 .team-cards {
+  text-transform: capitalize;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -167,6 +188,13 @@ body {
   color: #2e2f42;
 }
 .portfolio-list {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.portfolio-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
